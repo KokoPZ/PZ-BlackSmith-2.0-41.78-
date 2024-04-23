@@ -1,0 +1,8 @@
+IGUI_EN = {
+    IGUI_Tab_Fuel = "Fuel",
+    IGUI_Tab_Ingot = "Ingot",
+    IGUI_Tab_Tools = "Tools",
+    IGUI_Tab_Weapon = "Weapon",
+    IGUI_Tab_Material = "Material",
+    IGUI_Tab_Vehicle = "Vehicle",
+}

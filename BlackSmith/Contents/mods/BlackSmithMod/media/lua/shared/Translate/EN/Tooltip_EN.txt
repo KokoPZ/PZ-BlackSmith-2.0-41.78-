@@ -1,0 +1,7 @@
+Tooltip_EN = {
+    Tooltip_StoneFurnace_Build_Tooltip = "Create a furnace<br>which is needed to make things made of metal.<br>You can put metal in it and melt it.<br>Make things from the melted metal.",
+    Tooltip_NeedItem = "Need to",
+    Tooltip_RemoveFurnace = "Remove the furnace.<br>need a sledgehammer for removal.",
+    Tooltip_Anvil_Build_Tooltip = ""Creates an anvil<br>needed to make thingsfrom materials melted in a furnace.<br>Requires a furnace to be nearby to use",",
+    Tooltip_StoneFurnaceLight_Build_Tooltip = "Create a furnace<br>which is needed to make things made of metal.<br>You can put metal in it and melt it.<br>Make things from the melted metal.<br>Use batteries to Light",
+}

@@ -1,0 +1,7 @@
+ItemName_EN = {
+    ItemName_Base.FurnaceGoldIngot = "Gold Ingot",
+    ItemName_Base.FurnaceSilverIngot = "Silver Ingot",
+    ItemName_Base.FurnaceIronIngot = "Metal Ingot",
+    ItemName_Base.FurnaceAlloyIngot = "Alloy Ingot",
+    ItemName_Base.SmithingMagazine = "Blacksmith Magazine",
+}

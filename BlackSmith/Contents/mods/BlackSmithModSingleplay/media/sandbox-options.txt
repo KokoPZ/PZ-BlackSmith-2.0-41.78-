@@ -1,0 +1,157 @@
+VERSION = 1,
+option Furnace.MeltingAmount
+{
+	type = integer, min = 1, max = 1000, default = 10,
+	page = Furnace, translation = Furnace_MeltingAmount,
+}
+
+option Furnace.StartFuel
+{
+	type = integer, min = 0, max = 10000, default = 500,
+	page = Furnace, translation = Furnace_StartFuel,
+}
+
+option Furnace.FurnaceOnFuel
+{
+	type = integer, min = 0, max = 1000, default = 10,
+	page = Furnace, translation = Furnace_FurnaceOnFuel,
+}
+
+option Furnace.SelectFuel
+{
+	type = integer, min = 0, max = 1000, default = 10,
+	page = Furnace, translation = Furnace_SelectFuel,
+}
+
+option Furnace.SelectMaterial1
+{
+	type = integer, min = 0, max = 1000, default = 10,
+	page = Furnace, translation = Furnace_SelectMaterial1,
+}
+
+option Furnace.SelectMaterial2
+{
+	type = integer, min = 0, max = 1000, default = 10,
+	page = Furnace, translation = Furnace_SelectMaterial2,
+}
+
+option Furnace.SelectMaterial3
+{
+	type = integer, min = 0, max = 1000, default = 10,
+	page = Furnace, translation = Furnace_SelectMaterial3,
+}
+
+option Furnace.SelectMaterial4
+{
+	type = integer, min = 0, max = 1000, default = 10,
+	page = Furnace, translation = Furnace_SelectMaterial4,
+}
+
+option Furnace.SelectMaterial5
+{
+	type = integer, min = 0, max = 1000, default = 10,
+	page = Furnace, translation = Furnace_SelectMaterial5,
+}
+
+option Furnace.LevelReductionRate
+{
+	type = integer, min = 0, max = 9, default = 2,
+	page = Furnace, translation = Furnace_LevelReductionRate,
+}
+
+option Furnace.LevelIncreaseRate
+{
+	type = integer, min = 0, max = 9, default = 5,
+	page = Furnace, translation = Furnace_LevelIncreaseRate,
+}
+
+option Furnace.BaseTime
+{
+	type = integer, min = 0, max = 10, default = 1,
+	page = Furnace, translation = Furnace_BaseTime,
+}
+
+option Furnace.LevelReductionTimeRate
+{
+	type = integer, min = 0, max = 9, default = 5,
+	page = Furnace, translation = Furnace_LevelReductionTimeRate,
+}
+
+option Furnace.TempupFuel
+{
+	type = integer, min = 0, max = 2000, default = 5,
+	page = Furnace, translation = Furnace_TempupFuel,
+}
+
+option Furnace.TempupRate
+{
+	type = integer, min = 1, max = 1000, default = 5,
+	page = Furnace, translation = Furnace_TempupRate,
+}
+
+option Furnace.TempdownRate
+{
+	type = integer, min = 1, max = 1000, default = 10,
+	page = Furnace, translation = Furnace_TempdownRate,
+}
+
+option Furnace.FuelMeltingTemp
+{
+	type = integer, min = 0, max = 2000, default = 280,
+	page = Furnace, translation = Furnace_FuelMeltingTemp,
+}
+
+option Furnace.Material1MeltingTemp
+{
+	type = integer, min = 0, max = 2000, default = 1535,
+	page = Furnace, translation = Furnace_Material1MeltingTemp,
+}
+
+option Furnace.Material2MeltingTemp
+{
+	type = integer, min = 0, max = 2000, default = 1064,
+	page = Furnace, translation = Furnace_Material2MeltingTemp,
+}
+
+option Furnace.Material3MeltingTemp
+{
+	type = integer, min = 0, max = 2000, default = 961,
+	page = Furnace, translation = Furnace_Material3MeltingTemp,
+}
+
+option Furnace.Material4MeltingTemp
+{
+	type = integer, min = 0, max = 2000, default = 1700,
+	page = Furnace, translation = Furnace_Material4MeltingTemp,
+}
+
+option Furnace.Material5MeltingTemp
+{
+	type = integer, min = 0, max = 2000, default = 1535,
+	page = Furnace, translation = Furnace_Material5MeltingTemp,
+}
+
+option Furnace.MinimumReturnRate
+{
+	type = integer, min = 0, max = 50, default = 50,
+	page = Furnace, translation = Furnace_MinimumReturnRate,
+}
+
+option Furnace.MaterialReturnRate
+{
+	type = integer, min = 0, max = 5, default = 4,
+	page = Furnace, translation = Furnace_MaterialReturnRate,
+}
+
+option Furnace.UseBellowsFuel
+{
+	type = integer, min = 0, max = 10000, default = 1000,
+	page = Furnace, translation = Furnace_UseBellowsFuel,
+}
+
+option Furnace.UseBellowsTemp
+{
+	type = integer, min = 0, max = 1000, default = 300,
+	page = Furnace, translation = Furnace_UseBellowsTemp,
+}
+

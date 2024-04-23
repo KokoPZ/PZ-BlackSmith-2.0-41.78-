@@ -1,0 +1,8 @@
+IGUI_RU = {
+    IGUI_Tab_Fuel = "Топливо",
+    IGUI_Tab_Ingot = "Слитки",
+    IGUI_Tab_Tools = "Инструменты",
+    IGUI_Tab_Weapon = "Оружие",
+    IGUI_Tab_Material = "Материалы",
+    IGUI_Tab_Vehicle = "Автомобиль",
+}

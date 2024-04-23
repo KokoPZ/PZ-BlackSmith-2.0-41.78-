@@ -1,0 +1,27 @@
+module Base
+{
+    model Item_FurnaceGolgIngot
+    {
+        mesh = WorldItems/Ingot,
+        texture = WorldItems/IngotGold,
+        scale = 0.07,
+    }
+    model Item_FurnaceSilverIngot
+    {
+        mesh = WorldItems/Ingot,
+        texture = WorldItems/IngotSilver,
+        scale = 0.07,
+    }
+	model Item_FurnaceIronIngot
+    {
+        mesh = WorldItems/Ingot,
+        texture = WorldItems/IngotIron,
+        scale = 0.07,
+    }
+    model Item_FurnaceAlloyIngot
+    {
+        mesh = WorldItems/Ingot,
+        texture = WorldItems/IngotAlloy,
+        scale = 0.07,
+    }
+}

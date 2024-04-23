@@ -1,0 +1,78 @@
+IGUI_EN = {
+    IGUI_FurnaceUITitle = "Furnace",
+    IGUI_FurnaceInjectUITitle = "Material Inject",
+    IGUI_MaterialSelectUITitle = "Select Material",
+    IGUI_AnvilUITitle = "Anvil",
+
+    IGUI_Search = "Search",
+
+    IGUI_Invt = "Inventory",
+    IGUI_Require = "Require",
+    IGUI_InjectInt = "Inject",
+    IGUI_Inventory = "Inventory",
+    IGUI_MeltingMatrial = "Melt Matrial",
+
+    IGUI_Chance = "Chance",
+    IGUI_MakingTime = "Totla Time :",
+    IGUI_Time = "Time :",
+    IGUI_Sec = "Sec",
+    
+    IGUI_Temp = "℃",
+    IGUI_FurnaceTemp = "Furnace Temp :",
+    IGUI_MeltingTempText = "Material Melting Tmep :",
+
+    IGUI_FurnaceTempState = "Temp Mode:",
+    IGUI_FurnaceTempStateNofire = "No Fire",
+    IGUI_FurnaceTempStateFire = "Stay",
+    IGUI_FurnaceTempStateTempup = "Up",
+    IGUI_FurnaceTempStateTempdown = "Down",
+    
+    IGUI_FurnaceState = "Furnace State :",
+    IGUI_FurnaceStateON = "On",
+    IGUI_FurnaceStateOFF = "Off",
+
+    IGUI_Inject = "Inject",
+    IGUI_Cancel = "Cancel",
+    IGUI_MakeList = "Make",
+    IGUI_InjectBtn = "Inject UI",
+    IGUI_ClearList = "Clear List",
+    IGUI_SelectBtn = "Select UI",
+    IGUI_FurnaceOnBtn = "Fire On",
+    IGUI_FurnaceOffBtn = "Fire Off",
+
+    IGUI_TempupBtn = "Temp Up",
+    IGUI_UseBellowsBtn = "Use Bellows",
+    IGUI_StayTempBtn = "Stay(Temp)",
+
+    IGUI_FurnaceBuildMain = "BlackSmith Build",
+    IGUI_FurnaceType1 = "Ston Furnace",
+    IGUI_FurnaceType2 = "Ston Furnace(Light)",
+    IGUI_AnvilType1 = "Anvil",
+    IGUI_removeFurnace = "RemoveFurnace",
+
+    IGUI_FurnaceOpen = "Furnace Open",
+    IGUI_OpenAnvil = "Anvil Open",
+
+    IGUI_SelectText = "Select :",
+    IGUI_SelectNilText = "Not Select",
+    IGUI_SelectFuelText = "Wood(Fuel)",
+    IGUI_SelectMaterial1Text = "Metal",
+    IGUI_SelectMaterial2Text = "Gold",
+    IGUI_SelectMaterial3Text = "Silver",
+    IGUI_SelectMaterial4Text = "Glass",
+    IGUI_SelectMaterial5Text = "Alloys",
+
+    IGUI_SelectFuel = "Select : Wood(Fuel)",
+    IGUI_SelectMaterial1 = "Select : Metal",
+    IGUI_SelectMaterial2 = "Select : Gold",
+    IGUI_SelectMaterial3 = "Select : Silver",
+    IGUI_SelectMaterial4 = "Select : Glass",
+    IGUI_SelectMaterial5 = "Select : Alloys",
+    IGUI_SelectCancel = "Cancel",
+
+    IGUI_perks_Smithing = "BlackSmith",
+
+    IGUI_Tab_Favorite = "Favorite",
+    IGUI_Tab_Inject = "Material Inject(Refresh)",
+    IGUI_Tab_All = "All",
+}

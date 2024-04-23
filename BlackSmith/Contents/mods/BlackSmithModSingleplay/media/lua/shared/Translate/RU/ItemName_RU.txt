@@ -1,0 +1,7 @@
+ItemName_RU = {
+	ItemName_Base.FurnaceGoldIngot = "Слиток золота",
+    ItemName_Base.FurnaceSilverIngot = "Слиток серебра",
+    ItemName_Base.FurnaceIronIngot = "Слиток металла",
+    ItemName_Base.FurnaceAlloyIngot = "Слиток сплава",
+    ItemName_Base.SmithingMagazine = "Журнал кузнечное дело",
+}

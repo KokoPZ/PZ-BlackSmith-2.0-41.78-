@@ -1,0 +1,78 @@
+IGUI_RU = {
+    IGUI_FurnaceUITitle = "Кузница",
+    IGUI_FurnaceInjectUITitle = "Вложить в печь",
+    IGUI_MaterialSelectUITitle = "Задача",
+    IGUI_AnvilUITitle = "Наковальня",
+
+    IGUI_Search = "Поиск :",
+
+    IGUI_Invt = "В печи :",
+    IGUI_Require = "Цена :",
+    IGUI_InjectInt = "Итог :",
+    IGUI_Inventory = "Вложено",
+    IGUI_MeltingMatrial = "Доступно :",
+
+    IGUI_Chance = "Шанс",
+    IGUI_MakingTime = "Время :",
+    IGUI_Time = "Время :",
+    IGUI_Sec = "cекунд",
+    
+    IGUI_Temp = "",
+    IGUI_FurnaceTemp = "Темп-ра кузни :",
+    IGUI_MeltingTempText = "Плавкость темп-ра :",
+
+    IGUI_FurnaceTempState = "Темп-ра кузни :",
+    IGUI_FurnaceTempStateNofire = "Не нагрето",
+    IGUI_FurnaceTempStateFire = "Не меняется",
+    IGUI_FurnaceTempStateTempup = "Растёт",
+    IGUI_FurnaceTempStateTempdown = "Падает",
+    
+    IGUI_FurnaceState = "Состояние :",
+    IGUI_FurnaceStateON = "Работает",
+    IGUI_FurnaceStateOFF = "Простаивает",
+
+    IGUI_Inject = "Готово",
+    IGUI_Cancel = "Назад",
+    IGUI_MakeList = "Изготовить",
+    IGUI_InjectBtn = "Вложить",
+    IGUI_ClearList = "Отчистить",
+    IGUI_SelectBtn = "Задача",
+    IGUI_FurnaceOnBtn = "Зажечь",
+    IGUI_FurnaceOffBtn = "Потушить",
+
+    IGUI_TempupBtn = "Использовать меха",
+    IGUI_UseBellowsBtn = "Усилить пламя",
+    IGUI_StayTempBtn = "Держать температуру",
+
+    IGUI_FurnaceBuildMain = "Кузнечное дело",
+    IGUI_FurnaceType1 = "Кузница",
+    IGUI_FurnaceType2 = "Кузница (Горит)",
+    IGUI_AnvilType1 = "Наковальня",
+    IGUI_removeFurnace = "Убрать Кузницу",
+
+    IGUI_FurnaceOpen = "Кузница",
+    IGUI_OpenAnvil = "Наковальня",
+
+    IGUI_SelectText = "В работе :"
+    IGUI_SelectNilText = "Ничего нет",
+    IGUI_SelectFuelText = "Топливо",
+    IGUI_SelectMaterial1Text = "Металл",
+    IGUI_SelectMaterial2Text = "Золото",
+    IGUI_SelectMaterial3Text = "Серебро",
+    IGUI_SelectMaterial4Text = "Стекло",
+    IGUI_SelectMaterial5Text = "Сплав",
+
+    IGUI_SelectFuel = "Получить : Топливо",
+    IGUI_SelectMaterial1 = "Получить : Металл",
+    IGUI_SelectMaterial2 = "Получить : Золото",
+    IGUI_SelectMaterial3 = "Получить : Серебро",
+    IGUI_SelectMaterial4 = "Получить : Стекло",
+    IGUI_SelectMaterial5 = "Получить : Сплав",
+    IGUI_SelectCancel = "Ничего",
+
+    IGUI_perks_Smithing = "Кузнец",
+
+    IGUI_Tab_Favorite = "Избранное",
+    IGUI_Tab_Inject = "Материал",
+    IGUI_Tab_All = "Всё",
+}

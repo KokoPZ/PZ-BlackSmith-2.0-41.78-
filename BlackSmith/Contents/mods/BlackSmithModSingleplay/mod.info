@@ -1,0 +1,6 @@
+name=BlackSmith[Singleplay]
+id=BlackSmith_Singleplay
+description=Black Smith Mod Singleplay Version
+poster=poster.png
+pack=furnace
+tiledef=furnace 9625

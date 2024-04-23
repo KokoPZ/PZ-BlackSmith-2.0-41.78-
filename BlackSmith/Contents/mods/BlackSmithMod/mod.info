@@ -1,0 +1,6 @@
+name=BlackSmith[Main]
+id=BlackSmith_Main
+description=Black Smith Mod
+poster=poster.png
+pack=furnace
+tiledef=furnace 9625

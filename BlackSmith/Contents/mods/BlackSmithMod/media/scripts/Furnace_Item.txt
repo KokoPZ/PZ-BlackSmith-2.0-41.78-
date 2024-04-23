@@ -1,0 +1,42 @@
+module Base
+{
+	item FurnaceIronIngot {
+		Type = Normal,
+		Icon = FurnaceMaterial1,
+		Weight = 10.0,
+		DisplayName = FurnaceIronIngot,
+		WorldStaticModel = Item_FurnaceIronIngot,
+	}
+	item FurnaceGoldIngot {
+		Type = Normal,
+		Icon = FurnaceMaterial2,
+		Weight = 1.0,
+		DisplayName = FurnaceGolgIngot,
+		WorldStaticModel = Item_FurnaceGolgIngot,
+	}
+	item FurnaceSilverIngot {
+		Type = Normal,
+		Icon = FurnaceMaterial3,
+		Weight = 1.0,
+		DisplayName = FurnaceSilverIngot,
+		WorldStaticModel = Item_FurnaceSilverIngot,
+	}
+
+	item FurnaceAlloyIngot {
+		Type = Normal,
+		Icon = FurnaceMaterial5,
+		Weight = 10.0,
+		DisplayName = FurnaceAlloyIngot,
+		WorldStaticModel = Item_FurnaceAlloyIngot,
+	}
+
+	item SmithingMagazine {
+		Type = Literature,
+		NumberOfPages = 500,
+		Weight = 3.0,
+		Icon = BookDusk,
+		DisplayName = SmithingMagazine,
+        StaticModel = Book,
+        WorldStaticModel = BookRedPink_Ground,
+	}
+}

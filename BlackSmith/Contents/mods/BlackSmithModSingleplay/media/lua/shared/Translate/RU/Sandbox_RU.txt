@@ -1,0 +1,81 @@
+Sandbox_RU = {
+	Sandbox_Furnace = "Кузнечное дело",
+
+	Sandbox_Furnace_MeltingAmount = "Колличество выплавляемого в секунду ресурса",
+	Sandbox_Furnace_MeltingAmount_tooltip = "Количество ресурса, выплавляемого в кузне, за секунду",
+
+	Sandbox_Furnace_StartFuel = "Количество топлива для запуска кузни",
+	Sandbox_Furnace_StartFuel_tooltip = "Количество топлива, необходимое для зажигания кузни",
+
+	Sandbox_Furnace_FurnaceOnFuel = "Стандартный расход топлива",
+	Sandbox_Furnace_FurnaceOnFuel_tooltip = "Количество топлива в секунду, необходимое для поддержания кузни включенной",
+
+	Sandbox_Furnace_SelectFuel = "Расход топлива (Топливо)",
+	Sandbox_Furnace_SelectFuel_tooltip = "Потребление топлива в секунду для расплавления этого материала",
+
+	Sandbox_Furnace_SelectMaterial1 = "Расход топлива (Металл)",
+	Sandbox_Furnace_SelectMaterial1_tooltip = "Потребление топлива в секунду для расплавления этого материала",
+
+	Sandbox_Furnace_SelectMaterial2 = "Расход топлива (Золото)",
+	Sandbox_Furnace_SelectMaterial2_tooltip = "Потребление топлива в секунду для расплавления этого материала",
+
+	Sandbox_Furnace_SelectMaterial3 = "Расход топлива (Серебро)",
+	Sandbox_Furnace_SelectMaterial3_tooltip = "Потребление топлива в секунду для расплавления этого материала",
+
+	Sandbox_Furnace_SelectMaterial4 = "Расход топлива (Стекло)",
+	Sandbox_Furnace_SelectMaterial4_tooltip = = "Потребление топлива в секунду для расплавления этого материала",
+
+	Sandbox_Furnace_SelectMaterial5 = "Расход топлива (Сплав)",
+	Sandbox_Furnace_SelectMaterial5_tooltip = "Потребление топлива в секунду для расплавления этого материала",
+
+	Sandbox_Furnace_LevelReductionRate = "Стоимость создания предметов",
+	Sandbox_Furnace_LevelReductionRate_tooltip = "Процент, на который уменьшается количество ресурсов необходимого для крафта, в зависимости от уровня навыка.",
+
+	Sandbox_Furnace_LevelIncreaseRate = "Степень снижения эффективности плавления",
+	Sandbox_Furnace_LevelIncreaseRate_tooltip = "Процент, на который снижается эффективность плавления при снижении уровня навыка",
+
+	Sandbox_Furnace_BaseTime = "Минимальное время изготовления",
+	Sandbox_Furnace_BaseTime_tooltip = "Минимальное время необходимое для создания элемента. Оно будет добавлено ко времени создания настройки элемента",
+
+	Sandbox_Furnace_LevelReductionTimeRate = "Сокращение времени производства",
+	Sandbox_Furnace_LevelReductionTimeRate_tooltip = "Сокращение времени крафта на % за уровень навыка",
+
+	Sandbox_Furnace_TempupFuel = "Потребление топлива усилением",
+	Sandbox_Furnace_TempupFuel_tooltip = "Потребление топлива в секунду, при использовании кнопки (Использовать меха)",
+
+	Sandbox_Furnace_TempupRate = "Использование кузнечных мехов",
+	Sandbox_Furnace_TempupRate_tooltip = "Степень повышения температуры в секунду, добавляемая при использовании кнопки (Использовать меха)",
+
+	Sandbox_Furnace_TempdownRate = "Понижение температуры в секунду",
+	Sandbox_Furnace_TempdownRate_tooltip = "Степень снижения температуры в секунду, после выключении кузни.",
+
+	Sandbox_Furnace_FuelMeltingTemp = "Температура плавления древесины (Топлива)",
+	Sandbox_Furnace_FuelMeltingTemp_tooltip = "Температура, необходимая для превращения древесины (топлива) в полезный ресурс",
+
+	Sandbox_Furnace_Material1MeltingTemp = "Температура плавления материала (Металл)",
+	Sandbox_Furnace_Material1MeltingTemp_tooltip = "Температура, необходимая для превращения материала (металл) в пригодный для использования ресурс.",
+
+	Sandbox_Furnace_Material2MeltingTemp = "Температура плавления материала (Золото)",
+	Sandbox_Furnace_Material2MeltingTemp_tooltip = "Температура, необходимая для превращения материала (золота) в пригодный для использования ресурс.",
+
+	Sandbox_Furnace_Material3MeltingTemp = "Температура плавления материала (Серебро)",
+	Sandbox_Furnace_Material3MeltingTemp_tooltip = "Температура, необходимая для превращения материала (серебро) в пригодный для использования ресурс.",
+
+	Sandbox_Furnace_Material4MeltingTemp = "Температура плавления материала (Стекло)",
+	Sandbox_Furnace_Material4MeltingTemp_tooltip = "Температура, необходимая для превращения материала (стекла) в пригодный для использования ресурс.",
+
+	Sandbox_Furnace_Material5MeltingTemp = "Температура плавления материала (Сплав)",
+	Sandbox_Furnace_Material5MeltingTemp_tooltip = "Температура, необходимая для превращения материала (сплав) в пригодный для использования ресурс.",
+
+	Sandbox_Furnace_MinimumReturnRate = "Минимальный возврат ресурсов",
+	Sandbox_Furnace_MinimumReturnRate_tooltip = "Минимальный процент ресурсов, извлекаемых при температуре кузне ниже точки плавления материала.",
+
+	Sandbox_Furnace_MaterialReturnRate = "Коэффициент извлечения материала на уровень",
+	Sandbox_Furnace_MaterialReturnRate_tooltip = "По мере того как температура печи падает, количество расплавленных ресурсов уменьшается Процент извлечения ресурсов за уровень.",
+	
+	Sandbox_Furnace_UseBellowsFuel = "Стоимость (усиления пламени)",
+	Sandbox_Furnace_UseBellowsFuel_tooltip = "Топливо нужное для увеличения температуры кнопкой (усилить плямя).",
+
+	Sandbox_Furnace_UseBellowsTemp = "Усилить пламя кнопкой",
+	Sandbox_Furnace_UseBellowsTemp_tooltip = "Степень повышения температуры в печи при использовании. Максимальная температура в печи составляет 2000 градусов.",
+}

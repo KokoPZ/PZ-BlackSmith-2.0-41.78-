@@ -1,0 +1,81 @@
+Sandbox_EN = {
+	Sandbox_Furnace = "Blacksmith Mode",
+
+	Sandbox_Furnace_MeltingAmount = "Amount of metal melted",
+	Sandbox_Furnace_MeltingAmount_tooltip = "Amount of metal melted through the furnace, every minute of game time",
+
+	Sandbox_Furnace_StartFuel = "Amount of fuel to start the furnace",
+	Sandbox_Furnace_StartFuel_tooltip = "Amount of fuel required to turn on the furnace",
+
+	Sandbox_Furnace_FurnaceOnFuel = "Default fuel consumption",
+	Sandbox_Furnace_FurnaceOnFuel_tooltip = "The amount of fuel required to keep the furnace on, every minute of game time",
+
+	Sandbox_Furnace_SelectFuel = "Fuel consumption(wood)",
+	Sandbox_Furnace_SelectFuel_tooltip = "For each minute of game time, the amount of additional fuel required to melt this material",
+
+	Sandbox_Furnace_SelectMaterial1 = "Fuel consumption(metal)",
+	Sandbox_Furnace_SelectMaterial1_tooltip = "For every minute of game time, the amount of additional fuel required to melt that material",
+
+	Sandbox_Furnace_SelectMaterial2 = "Fuel consumption(gold)",
+	Sandbox_Furnace_SelectMaterial2_tooltip = "For every minute of game time, the amount of additional fuel required to melt that material",
+
+	Sandbox_Furnace_SelectMaterial3 = "Fuel consumption(silver)",
+	Sandbox_Furnace_SelectMaterial3_tooltip = "For every minute of game time, the amount of additional fuel required to melt that material",
+
+	Sandbox_Furnace_SelectMaterial4 = "Fuel consumption(glass)",
+	Sandbox_Furnace_SelectMaterial4_tooltip = = "For every minute of game time, the amount of additional fuel required to melt that material",
+
+	Sandbox_Furnace_SelectMaterial5 = "Fuel consumption(alloys)",
+	Sandbox_Furnace_SelectMaterial5_tooltip = "For every minute of game time, the amount of additional fuel required to melt that material",
+
+	Sandbox_Furnace_LevelReductionRate = "Material Reduction Rate",
+	Sandbox_Furnace_LevelReductionRate_tooltip = "The % by which the metal required for crafting is reduced per level.",
+
+	Sandbox_Furnace_LevelIncreaseRate = "Melt Efficiency Reduction Rate",
+	Sandbox_Furnace_LevelIncreaseRate_tooltip = "The % by which the melt efficiency decreases as the level decreases",
+
+	Sandbox_Furnace_BaseTime = "Minimum production time",
+	Sandbox_Furnace_BaseTime_tooltip = "This is the minimum time required to create an item<br>It will be added to the item setup creation time",
+
+	Sandbox_Furnace_LevelReductionTimeRate = "Production time reduction",
+	Sandbox_Furnace_LevelReductionTimeRate_tooltip = "Crafting time reduction % per level",
+
+	Sandbox_Furnace_TempupFuel = "TempUp Extra fuel",
+	Sandbox_Furnace_TempupFuel_tooltip = "Additional fuel used when using the button that automatically raises the temperature of the furnace",
+
+	Sandbox_Furnace_TempupRate = "Temperature increase per minute",
+	Sandbox_Furnace_TempupRate_tooltip = "The amount of temperature increase per minute of game time, added when using the Raise Temperature button.",
+
+	Sandbox_Furnace_TempdownRate = "Amount of temperature decrease per minute",
+	Sandbox_Furnace_TempdownRate_tooltip = "The amount of temperature decrease per minute when the furnace is turned off.",
+
+	Sandbox_Furnace_FuelMeltingTemp = "Wood(Fuel) melting poin",
+	Sandbox_Furnace_FuelMeltingTemp_tooltip = "The temperature required to change wood (fuel) into a usable resource",
+
+	Sandbox_Furnace_Material1MeltingTemp = "Material1 (metal) melting point",
+	Sandbox_Furnace_Material1MeltingTemp_tooltip = "The temperature required to turn Material1 (metal) into a usable resource.",
+
+	Sandbox_Furnace_Material2MeltingTemp = "Melting point of material 2 (gold)",
+	Sandbox_Furnace_Material2MeltingTemp_tooltip = "The temperature required to turn Material2 (Gold) into a usable resource.",
+
+	Sandbox_Furnace_Material3MeltingTemp = "Melting point of material 3 (silver)",
+	Sandbox_Furnace_Material3MeltingTemp_tooltip = "The temperature required to turn Material3 (silver) into a usable resource.",
+
+	Sandbox_Furnace_Material4MeltingTemp = "Melting point of material 4 (glass)",
+	Sandbox_Furnace_Material4MeltingTemp_tooltip = "The temperature required to turn material4 (glass) into a usable resource.",
+
+	Sandbox_Furnace_Material5MeltingTemp = "Material 5 (alloy) melting point",
+	Sandbox_Furnace_Material5MeltingTemp_tooltip = "The temperature required to turn Material5 (alloy) into a usable resource.",
+
+	Sandbox_Furnace_MinimumReturnRate = "Minimum Resource Return Rate",
+	Sandbox_Furnace_MinimumReturnRate_tooltip = "Minimum % of resources recovered when the temperature<br>of the furnace is below the melting point of the material.",
+
+	Sandbox_Furnace_MaterialReturnRate = "Additional Resource Return Rate per Level",
+	Sandbox_Furnace_MaterialReturnRate_tooltip = "As the temperature of the furnace drops, the amountof melted resources decreases<br>Resource recovery % per level.",
+	
+	Sandbox_Furnace_UseBellowsFuel = "Use Bellows Fuel",
+	Sandbox_Furnace_UseBellowsFuel_tooltip = "Using Bellows The amount of fuel consumed per use.",
+
+	Sandbox_Furnace_UseBellowsTemp = "Temperature increase when using Bellows",
+	Sandbox_Furnace_UseBellowsTemp_tooltip = "The amount of temperature increase in the furnace when using the tongs.<br>The temperature of the furnace is 2000 degrees maximum.",
+}
